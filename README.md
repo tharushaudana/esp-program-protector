@@ -1,7 +1,3 @@
-Sure, here's the README.md for your ESP program security guard:
-
----
-
 # ESP Program Security Guard
 
 A simple but powerful method to prevent copying the program binary file from ESP devices and reflashing it to another ESP device.
